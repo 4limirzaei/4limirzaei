@@ -2,11 +2,7 @@
 
 
 ## 🚀 About Me
-I am a web developer focused on Javascript language and the Vue js framework. 
-
-My in-depth experience in web development and work spans across technologies such as, Nuxt js framework , Tailwind , Git , Npm , Sass and many more. Also, I am familiar with React js, Next , Node js , Express framework , and micro frontend structure. 
-
-I enjoy learning about new web technologies, whilst strengthening my in-depth knowledge of the current technologies I use.
+Hello! I'm a Front-End Developer with over five years of experience in creating responsive and engaging websites tailored to meet client needs. I've had the privilege of working with various technologies like HTML, CSS, JavaScript, and Typescript, along with frameworks such as React.js, Next.js, Vue.js, Nuxt.js and Tailwind CSS. Additionally, I have some familiarity with Node.js and the Express framework.
 
 
 ## 🛠 Skills
