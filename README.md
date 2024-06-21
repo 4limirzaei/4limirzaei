@@ -1,4 +1,5 @@
-# Hi, I'm Ali ! 👋
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">A frontend developer</h3>
 
 
 ## 🚀 About Me
