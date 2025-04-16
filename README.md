@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm a Front-End Developer with 5+ years of experience in creating responsive and engaging websites tailored to meet client needs. I've had the privilege of working with various technologies like HTML, CSS, JavaScript, and Typescript, along with frameworks such as React.js, Next.js, Vue.js, Nuxt.js and Tailwind CSS. Additionally, I have some familiarity with Node.js and the Express framework.
+Hello! I'm a Front-End Developer with 6+ years of experience in creating responsive and engaging websites tailored to meet client needs. I've had the privilege of working with various technologies like HTML, CSS, JavaScript, and Typescript, along with frameworks such as React.js, Next.js, Vue.js, Nuxt.js and Tailwind CSS. Additionally, I have some familiarity with Node.js and the Express framework.
 
 
 ## 🛠 Skills
